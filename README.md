@@ -23,13 +23,13 @@ Playgrounds ships as part of Xcode, so the first thing you must do is download X
 
 Once Xcode has been downloaded, open it up from the Applications folder or launcher. You will be greeted by the following splash screen. Click "Get started with a playground" to create a new playground and experiment with some Swift code.
 
-![Get started with a playground](http://i.imgur.com/15kIM52.png)
+![Get started with a playground](http://i.imgur.com/escop73.png?1)
 
 After clicking on "Get started with a playground", you will be prompted to name your new playground file. Give it a memorable name.
 
 You can also select the programming environment you want to experiment with: iOS, OS X, or tvOS. Different environments offer slightly different options for interacting with the underlying system; for example, iOS provides the Cocoa Touch framework, whereas OS X provides the Cocoa framework. For now, the code you are writing will not depend on any specific platform, so you can select "iOS".
 
-![Setup your playground](http://i.imgur.com/5pzmYqa.png)
+![Setup your playground](http://i.imgur.com/qPQuShZ.png?1)
 
 Click "Next" to continue. You will be prompted to save your new playground file somewhere on your computer. Save it anywhere you like and click "Create" to finish setting up your new playground. You will see a mostly empty document like the one below.
 
